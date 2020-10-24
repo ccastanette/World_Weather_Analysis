@@ -4,6 +4,7 @@ config.py
 # Adding additional files
 API_practice.ipynb 
 randomnumbers.ipynb 
+Random_Numbers.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
