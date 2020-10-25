@@ -1,8 +1,9 @@
 # World_Weather_Analysis
 
 ## Goals
+
+  ### The goals of this project are:
   
-  The goals of this project are:
     - create a dataframe based on a temperature range that can be chosen and updated
     
     - this dataframe should include: 
